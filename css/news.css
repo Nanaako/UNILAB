@@ -1,0 +1,40 @@
+
+font-face {
+    font-family: "BPG Nino Mtavruli";
+    src: url(fonts/bpg_nino_mtavruli_normal.ttf)
+  }
+ul{
+    margin-bottom: 18.8px;
+    margin-top: 18.8px;
+}
+  li{
+    font-size: 22px;
+    margin-bottom: 2.2px;
+    color: #3D58A6
+    }
+    .box{
+        background-color: #3D58A6;
+        color: #FFFFFF;
+        width: 56px;
+        height: 56px;
+        font-size: 56px;
+        margin-top: 33.9px;
+        
+    }
+    .maisi {
+        color: #3D58A6;
+        font-size: 22px;
+        margin-top: 0px;
+        margin-bottom: 13.5px;
+        text-decoration: none;
+    }
+img{
+    margin-bottom: 27.5px;
+}
+h1{
+    font-size: 20px;
+    margin-bottom: 17.5px;
+}      
+.link{
+    color:red
+}
