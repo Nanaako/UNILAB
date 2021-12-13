@@ -17,9 +17,24 @@ ul{
 .link{
     color:red
 }
-.contact{
+div {
 text-align: center;
 vertical-align: middle;
 margin-bottom: 222.8px;
 margin-top: 150.8px;
+}
+
+.contact{
+  color: #3D58A6;
+  font-size: 20px;
+}
+span{
+  font-size: 16px;
+  color: #808080
+  }
+
+
+address li{
+  color:#000000;
+  font-size: 16px
 }
