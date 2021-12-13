@@ -21,12 +21,12 @@ ul{
         margin-top: 33.9px;
         
     }
-    .maisi {
-        color: #3D58A6;
-        font-size: 22px;
-        margin-top: 0px;
-        margin-bottom: 13.5px;
-        text-decoration: none;
+.maisi {
+    color: #3D58A6;
+     font-size: 22px;
+    margin-top: 0px;
+    margin-bottom: 13.5px;
+    text-decoration: none;
     }
 img{
     margin-bottom: 27.5px;
@@ -41,4 +41,6 @@ h1{
 .articletext{
 line-height: 19.2px;
 }
-
+body{
+    margin-left: 34px;
+}
